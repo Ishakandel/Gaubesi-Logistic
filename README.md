@@ -1,7 +1,7 @@
 # **Gaubesi Logistics**
 
 
-![logo](https://github.com/Ishachttri/Gaaubesi-Logistics/assets/130915454/ea459134-a667-4cfe-9c6e-94bb5f4549a0)
+![logo](./asset/image/logo.png)
 # **Description**
 
 Gaubesi Logistics is a streamlined web application designed to efficiently manage logistics operations. It provides a user-friendly interface for managing shipments, tracking packages, and optimizing delivery routes.
