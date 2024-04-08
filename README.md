@@ -9,7 +9,7 @@ Gaubesi Logistics is a streamlined web application designed to efficiently manag
 # **Demo**
 
 
-You can see a live demo of this project [Click here](https://TechCharlie0.github.io/Gaubesi-Logistic/).
+You can see a live demo of this project [Click here](http://TechCharlie0.github.io/Gaubesi-Logistic/).
 ![Gaubesi-Logistic Clone Demo](<./demo1.png>)
 
 
