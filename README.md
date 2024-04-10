@@ -42,4 +42,4 @@ To run Gaubesi Logistics locally, follow these simple steps:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/TechCharlie0/gaubesi-logistics.git
+   git clone: https://github.com/TechCharlie0/Gaubesi-Logistic.git
